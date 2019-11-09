@@ -46,6 +46,16 @@ header{
   padding-left: 5px;
   text-align: center;
 }
+.youtube_hacking_channel_button button{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
+.youtube_short_films_channel_button button{
+  position: absolute;
+  top: 75.5%;
+  left: 50%;
+}
 button {
   position: absolute;
   top: 45%;
