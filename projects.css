@@ -1,0 +1,63 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  text-align: center;
+  font-weight: lighter;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+.loned3vil_logo {
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  font-weight: lighter;
+  font-size: 18px;
+  color: black;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+.adb_hacking_video {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 300;
+  font-family: 'Quicksand', sans-serif;
+}
+.adbvideo_embed {
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'Raleway', sans-serif;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.adbvideo {
+  margin-left: 34%;
+  margin-top: 2%;
+}
+.eviltwin_embed {
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'Raleway', sans-serif;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+.eviltwinvideo {
+  align-items: center;
+  margin-left: 34%;
+  margin-top: 2%;
+}
+.crack_password_linux_embed {
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'Raleway', sans-serif;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+.linuxpasscrackvideo {
+  align-items: center;
+  margin-left: 34%;
+  margin-top: 2%;
+}
