@@ -140,3 +140,55 @@ button:hover:after {
 .menu_list li a:hover{
   color: teal;
 }
+img {
+  height: 50%;
+  width: 50vh;
+}
+h1 {
+  margin-bottom: 1%;
+  padding-top: 10px;
+  text-align: center;
+  font-weight: 500;
+}
+.team-section {
+  overflow: hidden;
+  text-align: center;
+  padding: 30px;
+}
+.team-section h1 {
+  text-transform: uppercase;
+  margin-bottom: 60px;
+  color: black;
+  font-size: 40px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+}
+.border {
+  display: block;
+  margin: auto;
+  width: 160px;
+  height: 3px;
+  background: #3498db;
+  margin-bottom: 40px;
+}
+.team {
+  margin-bottom: 40px;
+}
+.team a {
+  display: inline-block;
+  margin: 0 30px;
+  width: 160px;
+  height: 160px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 20px;
+}
+.team a img {
+  width: 100%;
+  height: 100%;
+  align-items: left;
+}
+.loneheading {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}

@@ -1,15 +1,40 @@
-/*Smaller screen phone or iphones: from 0 to 480px */
-@media only screen and (max-width: 480px) {
-	.name {
+@media only screen and (max-width: 430px) {
+	.vernacularheading {
 		text-align: center;
-		padding-right: 50px;
-		
+		margin-right: 25%;
 	}
+}
+/*Smaller screen phone or iphones: from 0 to 480px */
+@media only screen and (max-width: 500px) {
+.vernacularheading {
+	text-align: center;
+	margin-right: 15%;
+
+}
+.d34thheading {
+	text-align: center;
+	margin-right: 30%;
+}
+.border {
+	margin-right: 56.5%;
+  width: 160px;
+  height: 3px;
+	margin-bottom: 40px;
+ }
+ .team-section .border {
+	 margin-right: 25%;
+ }
+}
+@@media only screen and (max-width: 716px) {
+
 }
 
 /* smaller phones to smaller tablets: from 481px to 767px */
 @@media only screen and (max-width: 767px) {
-
+.name {
+	text-align: center;
+	margin-right: 45%;
+ }
 }
 
 /* smaller tablets to big tablets: from 768px to 1023px */
