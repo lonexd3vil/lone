@@ -48,5 +48,47 @@
 		margin-left: 7%;
 		margin-top: 2%;
 	}
-}
+	.gaming_channel_info {
+		font-size: 15px;
+		text-align: left;
+		padding-left: 15px;
+		padding-top: 15px;
+		padding-bottom: 15px
+	}
+	.lonexd3vilpubgintro {
+		font-size: 16px;
+		text-align: left;
+	}
+	.lonexd3vilpubgintrovideo {
+		margin-left: 7%;
+		margin-top: 2%;
+	}
+	.snipingislove {
+		font-size: 16px;
+		text-align: left;
+	}
+	.snipingislove_video {
+		margin-left: 7%;
+		margin-top: 2%;
+	}
+	.lastwords {
+		font-size: 18px;
+		text-align: center;
+	}
+	.Hacking_channel_button {
+		text-align: left;
+		margin-right: 20%;
+	}
+	.Hacking_channel_button a {
+		font-size: 12px;
+		padding-left: 28px;
+	}
+	.Gaming_channel_button {
+		text-align: left;
+		margin-right: 20%;
+	}
+	.Gaming_channel_button a {
+		font-size: 13px;
+		padding-left: 28px;
+	}
 
