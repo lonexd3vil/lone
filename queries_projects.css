@@ -77,18 +77,20 @@
 	}
 	.Hacking_channel_button {
 		text-align: left;
-		margin-right: 20%;
+		margin-right: 23%;
 	}
 	.Hacking_channel_button a {
 		font-size: 12px;
-		padding-left: 28px;
+		padding-left: 35px;
+		letter-spacing: 0px;
 	}
 	.Gaming_channel_button {
 		text-align: left;
-		margin-right: 20%;
+		margin-right: 23%;
 	}
 	.Gaming_channel_button a {
 		font-size: 12px;
-		padding-left: 28px;
+		padding-left: 35px;
+		letter-spacing: 0px;
 	}
 
