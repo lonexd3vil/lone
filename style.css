@@ -2,7 +2,6 @@
   padding: 0px;
   margin: 0px;
 }
-
 header{
   width: 100%;
   height: 100vh;
@@ -191,4 +190,31 @@ h1 {
 .loneheading {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+}
+.social-buttons {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.social-buttons a {
+  text-decoration: none;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+.social-buttons a::before {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  z-index: -1;
 }
