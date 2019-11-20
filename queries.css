@@ -1,14 +1,41 @@
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 360px) {
+	.header_menu {
+		font-size: 14px;
+	}
+	.lonexd3vil_logo {
+		font-size: 15px;
+	}
+	.description_welcome {
+ 	font-size: 12px;
+ 	padding-left: 5px;
+ 	padding-right: 5px;
+ }
+	.youtube_hacking_channel_button button {
+ 	margin-top: 5%;
+ }
+ 	.youtube_gaming_channel_button button {
+ 	margin-top: 5%;
+ }
+ 	.team-section h1 {
+ 	font-size: 25px;
+ }
+ 	.h1 {
+ 		margin-bottom: 10%;
+ 	}
+}
 
-.border {
-	margin-right: 56.5%;
-  	width: 160px;
- 	height: 3px;
-	margin-bottom: 20px;
+@media only screen and (max-width: 480px) {
+ .description_welcome {
+ 	font-size: 15px;
+ 	padding-left: 5px;
+ 	padding-right: 5px;
  }
  .team-section .border {
 	 margin-right: 25%;
  }
+  .team-section h1 {
+  	font-size: 28px;
+  }
 }
 @@media only screen and (max-width: 716px) {
 

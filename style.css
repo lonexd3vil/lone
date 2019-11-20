@@ -156,19 +156,10 @@ h1 {
 }
 .team-section h1 {
   text-transform: uppercase;
-  margin-bottom: 60px;
   color: black;
   font-size: 40px;
   font-family: 'Raleway', sans-serif;
   font-weight: 500;
-}
-.border {
-  display: block;
-  margin: auto;
-  width: 160px;
-  height: 3px;
-  background: #3498db;
-  margin-bottom: 40px;
 }
 .team {
   margin-bottom: 40px;
