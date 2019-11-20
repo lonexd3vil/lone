@@ -36,6 +36,9 @@
   .team-section h1 {
   	font-size: 28px;
   }
+  .youtube_short_films_channel_button {
+  	font-size: 20px;
+  }
 }
 @@media only screen and (max-width: 716px) {
 
