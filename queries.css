@@ -130,6 +130,10 @@
 	.worksection_heading {
 		font-size: 22px;
 	}
+	.site-projects-head {
+		font-size: 22px;
+		margin-top: 3%;
+	}
 	.column {
 		width: 80%;
 		height: auto;
@@ -139,17 +143,33 @@
 	.description_fiverr {
 		font-size: 15px;
 		text-align: center;
-		margin-bottom: 12%;
+		margin-bottom: 10%;
 	}
 	.fiverr_button {
-		margin-bottom: 10%;
-		font-size: 15px;
+		font-size: 13px;
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-bottom: 3%;
 	}
 	.fiverr_button a {
-		padding-left: 40px;
-		padding-right: 40px;
-		padding-top: 15px;
-		padding-bottom: 15px;
+		padding-left: 45px;
+		padding-right: 45px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		font-size: 13px;
+	}
+	.site-projects-head {
+		font-size: 22px;
+		margin-top: 5%;
+	}
+	.projects-sec-context {
+		font-size: 15px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.anime-arena_button {
+		margin-top: 10%;
+		font-size: 15px;
 	}
 	.store-heading {
 		font-size: 20px;
@@ -168,13 +188,14 @@
 	.shop_button {
 		margin-top: 10%;
 		margin-bottom: 10%;
-		font-size: 15px;
+		font-size: 13px;
 	}
 	.shop_button a {
 		padding-left: 40px;
 		padding-right: 40px;
 		padding-top: 15px;
 		padding-bottom: 15px;
+		font-size: 13px;
 	}
 	.heading_sec1_socieal_media {
 		font-size: 20px;
@@ -281,21 +302,17 @@
 		padding-top: 15px;
 		padding-bottom: 15px;
 	}
-	.heading_sec1_socieal_media {
-		font-size: 20px;
-		margin-top: 5%;
-	}
-	.media_sec {
-		margin-bottom: 2%;
-		font-size: 15px;
-	}
 	.imageone {
 		margin-top: 2%;
-		margin-left: 16%;
+		margin-left: -2%;
 		padding-bottom: 10px;
 	}
 	.imageone img {
-		width: 230%;
+		width: 122%;
+		height: auto;
+	}
+	.social-media-links img {
+		width: 5%;
 		height: auto;
 	}
 	.footer {
@@ -365,6 +382,15 @@
 		padding-top: 15px;
 		padding-bottom: 15px;
 	}
+	.anime-arena_button {
+		font-size: 15px;
+	}
+	.anime-arena_button a {
+		padding-top: 20px;
+		padding-bottom: 20px;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
 	.store-heading {
 		font-size: 20px;
 		margin-top: 5%;
@@ -372,40 +398,28 @@
 	.storefronts {
 		width: 80%;
 		height: auto;
-		margin-left: 18%;
+		margin-left: 10%;
 		padding: 15px;
 	}
 	.storefronts img {
-		width: 80%;
+		width: 70%;
 		height: auto
 	}
 	.shop_button {
-		margin-top: 7%;
+		margin-top: 5%;
 		margin-bottom: 10%;
 		font-size: 15px;
 	}
 	.shop_button a {
 		padding-left: 40px;
 		padding-right: 40px;
-		padding-top: 15px;
-		padding-bottom: 15px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 	}
-	.heading_sec1_socieal_media {
-		font-size: 20px;
-		margin-top: 5%;
-	}
-	.media_sec {
-		margin-bottom: 2%;
+	.projects-sec-context {
 		font-size: 15px;
-	}
-	.imageone {
-		margin-top: 2%;
-		margin-left: 16%;
-		padding-bottom: 10px;
-	}
-	.imageone img {
-		width: 230%;
-		height: auto;
+		padding-right: 10px;
+		padding-left: 10px;
 	}
 	.footer {
 		margin-top: 0%; 
